@@ -200,9 +200,8 @@ The dashboard follows a professional **Luxury Real Estate Theme** using:
 
 Aspiring Data Analyst
 
-GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/shashank-c-419169333
 
 ---
 
