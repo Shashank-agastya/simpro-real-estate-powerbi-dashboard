@@ -165,7 +165,7 @@ The dashboard follows a professional **Luxury Real Estate Theme** using:
 
 # 📸 Dashboard Preview
 
-<img width="100%" src="dashboard1.png">
+<img width="100%" src="Screenshot 2026-07-17 080929.png">
 
 ---
 
